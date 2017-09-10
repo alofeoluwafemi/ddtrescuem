@@ -1,0 +1,13 @@
+{
+    "name": "primenexus/ddtrescuem",
+    "description": "DISASTER DISPATCH TEAM RESCUE ME",
+    "require": {
+        "j7mbo/twitter-api-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Oluwafemi",
+            "email": "aprimenexus@gmail.com"
+        }
+    ]
+}
